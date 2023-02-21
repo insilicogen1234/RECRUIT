@@ -6,9 +6,9 @@
  * Your repositories 클릭
  *  해당 repositories 클릭 우측 <> Code 버튼 클릭
  * HTTPS 주소 복사
-2. 터미널 에서 원하는 폴더로 이동
+2. 터미널.app 실행
+3. 터미널 에서 원하는 폴더로 이동
  *  ex) cd Desktop
-3. 터미널.app 실행
 4. git clone [HTTPS 주소]
  * 로그인을 해야하는 경우 비밀번호에 발급받은 token 입력
 5. 복사된 repositories를 원하는방법대로 수정
