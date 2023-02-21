@@ -11,8 +11,9 @@
  *  ex) cd Desktop
 4. git clone [HTTPS 주소]
  * 로그인을 해야하는 경우 비밀번호에 발급받은 token 입력
-5. 복사된 repositories를 원하는방법대로 수정
-6. 아래 순서대로 commit 진행
+5. git clone [HTTPS 주소]
+6. cd RECRUIT
+7. 아래 순서대로 commit 진행
  * git status (수정된 사항 확인)
  * git add -A
  * git commit -m "[메세지]"
